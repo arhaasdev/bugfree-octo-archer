@@ -1,4 +1,4 @@
 bugfree-octo-archer
 ===================
 
-Haskell
+This is not a repository.
