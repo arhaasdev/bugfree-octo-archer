@@ -1,4 +1,4 @@
 bugfree-octo-archer
 ===================
 
-This is not a repository.
+This is not a repository for Java code.
