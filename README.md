@@ -1,4 +1,4 @@
-bugfree-octo-archer
-===================
+This repo is a waste
+====================
 
-This is not a repository for Java code.
+of space on disk.
